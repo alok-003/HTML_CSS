@@ -1,7 +1,7 @@
 # 🎨 HTML / CSS Progress  
 
 A repository showcasing my **journey of learning web design** through **HTML and CSS**.  
-Each project here reflects my practice in structure, styling, and creativity — from simple text layouts to visually appealing designs. 🌈  
+Each project here reflects my practice in structure, styling, and creativity — from simple text layouts to visually appealing designs. 
 
 ---
 
